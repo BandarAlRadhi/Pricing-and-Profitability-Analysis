@@ -29,7 +29,13 @@ Before building the dashboard, a rigorous data cleaning process was executed to 
 > 📁 *Note: The raw data can be found in `01_Superstore_Raw_Data.xlsx` and the cleaned version in `02_Superstore_Cleaned_Data.xlsx` within this repository.*
 
 ---
+## Project Dashboard Overview
 
+Below is the full interactive Power BI dashboard designed for this analysis:
+
+![Full Superstore Dashboard](super-store-dashboard.png)
+
+---
 
 ## Executive Summary & Key Performance Indicators (KPIs)
 
