@@ -1,7 +1,7 @@
-# Superstore Sales & Profitability Analysis
+# Pricing & Profitability Analysis
 
-##  Project Overview & Business Objective
-This project analyzes a dataset of a storefront's sales ($2.3M) to identify inefficiencies in profitability. The primary objective is to investigate why certain categories generate high sales volume but fail to deliver expected net profit, and to provide data-driven recommendations to optimize pricing, logistical costs, and discounting strategies.
+## Project Overview & Business Objective
+This project analyzes a storefront's sales dataset ($2.3M) to identify pricing and profitability inefficiencies. The primary objective is to investigate how pricing and discounting strategies affect profitability across product categories and regions, and to provide data-driven recommendations to optimize pricing decisions, discount policies, and overall profit margins.
 
 **Data Source:** Superstore Sales Dataset (Kaggle)
 
